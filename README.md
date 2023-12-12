@@ -7,8 +7,11 @@ I must point out that this will scan ports 80 and 443 on many devices connected 
 Very easy to use. You can change scan peramiters in the shell executable file.
 
 How to use:
-1|git clone the repo
-2|./mkwebpage.sh
+
+1| Git clone the repo
+
+2| Run mkwebpage.sh
+
 The terminal will tell you what's what after this.
 
 I am aware my code is bad and can sometimes leave double quotes but I don't have the time or brain function to fix it.
